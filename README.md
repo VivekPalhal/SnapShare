@@ -5,3 +5,7 @@ Design (UI) :
 
 <img width="1740" height="3089" alt="image" src="https://github.com/user-attachments/assets/6ebf646d-8803-4d6a-8d1e-fc46c21bbf1f" />
 
+
+System Architecture (HLD) :
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/69ca4a09-922e-4d42-8823-54eddd57dd84" />
